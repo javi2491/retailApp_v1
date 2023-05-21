@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "375499623046",
+    "project_id": "posapp-beaf9",
+    "storage_bucket": "posapp-beaf9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375499623046:android:d478de2e6cff303fbe5f07",
+        "android_client_info": {
+          "package_name": "com.posapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375499623046-5csh1hopftlni1g9a8r1gd7k7mvpm8jv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.posapp",
+            "certificate_hash": "4eb2413b786977fb5a1479d9b0d52deca531f622"
+          }
+        },
+        {
+          "client_id": "375499623046-3rgco0c9rldquh6momjkjst16h3embbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvCVBZxIAmbvwky_DjRF5LZBa4sD0SVaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375499623046-3rgco0c9rldquh6momjkjst16h3embbm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
